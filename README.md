@@ -1,6 +1,6 @@
-- 👋 Hi, I’m AbanoubIbrahim
-- 👀 I’m interested in Developing and Design
-- 🌱 I’m currently learning  UI and UX design
+- 👋 Hi, I am Abanoub Ibrahim Dotenet Developer
+- 👀 I’m interested in Developing and Designing
+- 🌱 I’m currently learning ASP.NetCore, SQL, Entity Framework and TypeScript.
 - 💞️ I’m looking to collaborate on big company with big team
 - 📫 How to reach me https://www.linkedin.com/in/abanoub-ibrahim-b47132187/
 
