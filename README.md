@@ -1,6 +1,6 @@
-- 👋 Hi, I am Abanoub Ibrahim Java Android && DotNet Developer
+- 👋 Hi, I am Abanoub Ibrahim Java Android && Backend DotNet Developer
 - 👀 I’m interested in Developing and Designing
-- 🌱 I’m currently learning ASP.NetCore, SQL, Entity Framework and TypeScript.
+- 🌱 I’m currently learning ASP.NetCore, SQL, Entity Framework, TypeScript Angular.
 - 📫 How to reach me https://www.linkedin.com/in/abanoub-ibrahim-b47132187/
 
 <!---
