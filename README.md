@@ -1,6 +1,6 @@
 - 👋 Hi, I am Abanoub Ibrahim Full-Stack Developer using Angular & ASP.NetCore.
 - 👀 I’m interested in Developing and Designing
-- 🌱 I have experts ASP.Net Core, SQL, Entity Framework, TypeScript Angular.
+- 🌱 I have experts ASP.Net Core, SQL, Entity Framework, TypeScript and Angular Framework.
 - 📫 How to reach me https://www.linkedin.com/in/abanoub-ibrahim-b47132187/
 
 <!---
