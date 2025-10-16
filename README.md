@@ -23,10 +23,6 @@ End-to-end API integration for housing and ownership verification between MOJ, K
 An e-commerce web platform connecting users with tailors for home-measurement and delivery services.  
 **Tech Stack:** ASP.NET Core MVC, Entity Framework, Bootstrap 5, SQL Server  
 
-#### 💬 **Student Feedback Portal**  
-A web app for collecting student ratings and feedback on university courses and instructors.  
-**Tech Stack:** ASP.NET Core Web API, Angular, SQL Server, BLoC pattern for feedback analytics  
-
 
 ---
 
